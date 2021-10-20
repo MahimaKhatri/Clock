@@ -1,9 +1,11 @@
-# Clock
+# Clock :clock6:
 
 ## Introduction
+A simple clock is designed using HTML, CSS and JavaScript. In this project , a digital as well as analog clock has been designed which displays the current date and time .
 
 ## Features
-![alt text](Images/Screenshot 2021-10-20 at 12.02.14 PM.png)
+![alt text](https://github.com/MahimaKhatri/Digital-Clock/blob/e33d98b38c0c9e2534c6ae7503a74fd13d5e4d81/Images/Screenshot%202021-10-20%20at%2012.02.14%20PM.png)
+
 
 ## Tech Stack
 
